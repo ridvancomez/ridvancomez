@@ -46,7 +46,7 @@ Kullanıcıların blog yazabildiği dinamik web sitesi. JavaScript ile geliştir
 
 ## 📍 Hakkımda
 
-- 🏢 **Naya Digital Agency**'de Full Stack Developer olarak çalışıyorum
+- 🏢 **Naya Digital Agency**'de Full Stack Developer olarak çalıştım
 - 🏢 **Beranet Ltd Şti**'de Web Developer olarak çalıştım
 - 🎓 Bilgisayar Programcılığı (Afyon Kocatepe Üniversitesi) + 600 saatlik yazılım bootcamp'i (Üsküdar Üniversitesi / İŞKUR)
 - 🎮 Unity/C# ile oyun geliştirme geçmişim var
