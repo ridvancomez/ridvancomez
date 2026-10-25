@@ -25,22 +25,25 @@
 
 ## 🚀 Öne Çıkan Projeler
 
-### [EmirCoaching](https://github.com/ridvancomez/EmirCoaching)
-Kişisel antrenör web sitesi — Figma tasarımından sıfırdan kodlanan, SEO uyumlu, tam responsive HTML/CSS projesi.
-Özellikler: carousel, accordion SSS, privacy blur toggle, drawer menü, iletişim formu popup.
+### [Asp.NetCore](https://github.com/ridvancomez/Asp.NetCore)
+ASP.NET Core 8 ile geliştirilmiş kişisel portföy ve blog platformu. Yazar paneli (Writer Area), admin paneli, ayrı REST API projesi ve ViewComponent mimarisi.
 
 ### [BerberVio](https://github.com/ridvancomez/BerberVio)
-ASP.NET Core ile geliştirilen kuaför randevu sistemi. N-Tier mimari ve Repository Pattern ile yapılandırıldı.
+Kuaför/güzellik salonları için randevu yönetim sistemi. ASP.NET Core, N-Tier mimari ve Repository Pattern ile geliştirildi.
 
-### [Traversal](https://github.com/ridvancomez/Traversal)
-ASP.NET Core, MSSQL ve Identity Server ile geliştirilen rol bazlı tur seyahat web sitesi.
-N-Tier mimari, Repository Pattern, DI ve Code First yaklaşımıyla yapılandırıldı.
+### [EmirCoaching](https://github.com/ridvancomez/EmirCoaching)
+Kişisel antrenörlük hizmeti için N-Tier mimaride ASP.NET Core backend API. Repository + Unit of Work, FluentValidation, Result Pattern.
 
 ### [RestoranSignalR](https://github.com/ridvancomez/RestoranSignalR)
-SignalR ile gerçek zamanlı etkileşim sunan restoran yönetim projesi. N-Tier Architecture ve Strategy Pattern.
+SignalR ile gerçek zamanlı etkileşim sunan restoran yönetim sistemi. N-Tier mimari, Strategy Pattern, AutoMapper.
 
 ### [Story Blog](https://github.com/ridvancomez/Story_Blog)
-Kullanıcıların blog yazabildiği dinamik web sitesi. JavaScript ile geliştirildi.
+ASP.NET MVC 5 ve Entity Framework ile geliştirilmiş çok kullanıcılı blog platformu.
+
+### [TraversalTwo](https://github.com/ridvancomez/TraversalTwo)
+Seyahat/tur rezervasyon sitesi. ASP.NET Core, N-Tier mimari, Identity tabanlı kullanıcı girişi.
+
+**Diğer projeler:** [KuaforRandevu](https://github.com/ridvancomez/KuaforRandevu) (ayrı CMS admin paneli dahil randevu sistemi) · [BabyMonitor](https://github.com/ridvancomez/BabyMonitor) (yerel ağda WebRTC tabanlı bebek izleme uygulaması, ASP.NET Core + SignalR)
 
 ---
 
